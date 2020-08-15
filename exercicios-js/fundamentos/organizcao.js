@@ -4,6 +4,6 @@ console.log(
 {
     {
         console.log("Olá");
-        console.log('Mundo') //sem ponto e virgula
+        console.log('Mundo') //padrão do curso 
     }
 }
