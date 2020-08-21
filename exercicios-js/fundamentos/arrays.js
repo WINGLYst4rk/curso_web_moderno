@@ -12,8 +12,8 @@ console.log(valores)// retorna um array com a idicação de quantos valores est�
 valores.push({id: 3}, false, null, 'teste')// função que adiciona novos itens no array
 console.log(valores)
 
-console.log(valores.pop())
+console.log(valores.pop())// função para "sacar o ultimo 'valor' do array"
 console.log(valores)
 
-delete valores[0]
+delete valores[0]// função para deletar um "valor" do array
 console.log(valores)
