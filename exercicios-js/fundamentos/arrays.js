@@ -17,3 +17,5 @@ console.log(valores)
 
 delete valores[0]// função para deletar um "valor" do array
 console.log(valores)
+
+console.log(typeof valores)// arrays são objetos / retorna o tipo de "valores"
